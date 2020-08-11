@@ -5,7 +5,7 @@ This paper aims to solve machine learning optimization problem by using quantum 
 **Files**
 
 * ArXiv: [Paper][1]
-* [Slide][2]
+* Github: [Slide][2]
 
 Keywords: Quantum Computing, Machine Learning, Swap Test, Grover's Search, Durr-Hoyer's algorithm, 
 
